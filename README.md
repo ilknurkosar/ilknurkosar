@@ -37,8 +37,16 @@ I have experience using these tools and technologies:
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
 ---
+
+## 🚀 Currently Learning  
+I'm currently learning:  
+- **Artificial Intelligence (AI):** Focusing on machine learning algorithms and neural networks.  
+- **Computer Networks:** Exploring network architectures, protocols, and security.
+- **Web Services:** Gaining insights into designing, developing, and integrating web services to enable smooth interaction between different applications.
+  
+---
+
 
 ## 🎮 Projects  
 - **[Path of Truth](https://github.com/ilknurkosar/Path-of-Truth)**  
@@ -60,16 +68,10 @@ I have experience using these tools and technologies:
 
 ## 📊 GitHub Stats  
 ![İlknur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilknurkosar&show_icons=true&theme=radical)  
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilknurkosar&layout=compact&theme=radical)
 
----
 
-## 🚀 Currently Learning  
-I'm currently learning:  
-- **Artificial Intelligence (AI):** Focusing on machine learning algorithms and neural networks.  
-- **Computer Networks:** Exploring network architectures, protocols, and security.
-- **Web Services:** Gaining insights into designing, developing, and integrating web services to enable smooth interaction between different applications.
-  
 
 
   
