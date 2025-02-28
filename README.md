@@ -53,30 +53,10 @@ I have experience using these tools and technologies:
 - **[Multi Resolution Image Compression Using Wavelets](https://github.com/ilknurkosar/Multi-Resolution-Image-Compression-Using-Wavelets)**  
   Developed an image compression system using multi-level discrete wavelet transform (DWT) and quantization techniques.  
   _December 2024_
-  
-- **Battleship Game**  
-  Designed a game using C for the Operating Systems course, incorporating fork and IPC mechanisms.  
-  _November 2024_
-  
-- **University Course Schedule Planning System**  
-  Developed a scheduling system with HTML, CSS, and Vue.js, optimizing professor and classroom availability for a user-friendly display.  
-  _May 2024_
 
 
 ---
 
-## 🏆 Certifications  
-- Cyber Security Certification – BTK Academy  
-- Google Project Management Certificate – Coursera  
-- Completion Certificate – Game and Application Academy  
-
----
-
-## 🌐 Languages  
-- English (B2)  
-- Turkish (Native)
-
----
 
 ## 📊 GitHub Stats  
 ![İlknur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilknurkosar&show_icons=true&theme=radical)  
