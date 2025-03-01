@@ -48,31 +48,12 @@ I'm currently learning:
   
 ---
 
-
-## 🎮 Projects  
-- **[Path of Truth](https://github.com/ilknurkosar/Path-of-Truth)**  
-  A 2D, top-down, narrative game where the player undertakes missions as a character.  
-  Created character controls, UI elements, and effects using Unity and C#.  
-  _August 2024_
-
-- **[Path Blocker Game](https://github.com/ilknurkosar/PathBlockerGame)**  
-  Developed an AI-driven pathfinding game using A* algorithm with Manhattan distance and elevation-based movement cost.  
-  _January 2025_
-
-- **[Multi Resolution Image Compression Using Wavelets](https://github.com/ilknurkosar/Multi-Resolution-Image-Compression-Using-Wavelets)**  
-  Developed an image compression system using multi-level discrete wavelet transform (DWT) and quantization techniques.  
-  _December 2024_
-
-
----
-
-
 ## 📊 GitHub Stats  
 ![İlknur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilknurkosar&show_icons=true&theme=radical)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilknurkosar&layout=compact&theme=radical)
 
-
+---
 
 
   
